@@ -1,4 +1,4 @@
-name_x,party,congressperson_progressiveness_score,overall_score,state,senate,name_y,code,population,land_area_km2,social_progress_index
+name_x,party,crucial_vote_score,overall_score,state,senate,name_y,code,population,land_area_km2,social_progress_index
 "Levin, Andy",D,99.47,99.66,MI,False,Michigan,MI,"10,077,331","146,435",50.76
 "Raskin, Jamie",D,98.49,99.12,MD,False,Maryland,MD,"6,177,224","25,142",54.47
 "Jones, Mondaire",D,97.94,99.14,NY,False,New York,NY,"20,201,249","122,057",54.76

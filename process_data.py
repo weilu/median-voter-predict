@@ -4,6 +4,7 @@ import difflib
 import re
 from plotnine import *
 import os.path
+import statsmodels.api as sm
 
 
 CLEANED_DATA_FILENAME = 'data/congress.csv'
@@ -35,7 +36,6 @@ def clean_data():
     congress_df = house_df.append(senate_raw)
 
     df = pd.merge(congress_df, state_df, left_on='state', right_on='code', how='left')
-    df.rename(columns={'crucial_vote_score': 'congressperson_progressiveness_score'}, inplace=True)
     print(df)
     df.to_csv(CLEANED_DATA_FILENAME, index=False)
     return df
@@ -56,8 +56,8 @@ def poly(x, degree=1):
             d[f'x**{i}'] = np.power(x, i)
     return pd.DataFrame(d)
 
-def plot(df):
-    plot = (ggplot(df, aes(x='congressperson_progressiveness_score', y='social_progress_index', color='party'))
+def plot(df, x_col_name, y_col_name):
+    plot = (ggplot(df, aes(x=x_col_name, y=y_col_name, color='party'))
         + geom_point()
         + stat_smooth(
             method='lm',
@@ -67,7 +67,7 @@ def plot(df):
     )
     plot.save('social_progress_by_congress_progressiveness_parties.png', height=8, width=8)
 
-    plot = (ggplot(df, aes(x='congressperson_progressiveness_score', y='social_progress_index'))
+    plot = (ggplot(df, aes(x=x_col_name, y=y_col_name))
         + geom_point()
         + stat_smooth(
             method='lm',
@@ -82,5 +82,18 @@ if __name__ == '__main__':
         df = pd.read_csv(CLEANED_DATA_FILENAME)
     else:
         df = clean_data()
-    plot(df)
 
+    x_source_col_name = 'crucial_vote_score' # alternatively overall_score
+    x_col_name = 'congressperson_progressiveness_score'
+    y_col_name = 'social_progress_index'
+    df.rename(columns={x_source_col_name: x_col_name}, inplace=True)
+
+    plot(df, x_col_name, y_col_name)
+
+    X_with_intercept = pd.get_dummies(df['party'], drop_first=True, prefix='party')
+    X_with_intercept['senate'] = df.senate.map(lambda x: 1 if x else 0)
+    X_with_intercept[x_col_name] = df[x_col_name]
+    X_with_intercept['const'] = 1
+    ols = sm.OLS(df[y_col_name], X_with_intercept)
+    ols_result = ols.fit()
+    print(ols_result.summary())
