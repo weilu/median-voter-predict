@@ -1,0 +1,533 @@
+name_x,party,congressperson_progressiveness_score,overall_score,state,senate,name_y,code,population,land_area_km2,social_progress_index
+"Levin, Andy",D,99.47,99.66,MI,False,Michigan,MI,"10,077,331","146,435",50.76
+"Raskin, Jamie",D,98.49,99.12,MD,False,Maryland,MD,"6,177,224","25,142",54.47
+"Jones, Mondaire",D,97.94,99.14,NY,False,New York,NY,"20,201,249","122,057",54.76
+"Newman, Marie",D,97.94,99.15,IL,False,Illinois,IL,"12,812,508","143,793",52.33
+"Torres, Ritchie",D,97.94,99.14,NY,False,New York,NY,"20,201,249","122,057",54.76
+"Espaillat, Adriano",D,97.91,98.89,NY,False,New York,NY,"20,201,249","122,057",54.76
+"Pocan, Mark",D,97.88,99.03,WI,False,Wisconsin,WI,"5,893,718","140,268",57.88
+"Garcia, Jesús",D,97.33,98.98,IL,False,Illinois,IL,"12,812,508","143,793",52.33
+"Pressley, Ayanna",D,97.33,97.96,MA,False,Massachusetts,MA,"7,029,917","20,202",64.82
+"Jayapal, Pramila",D,97.3,99.24,WA,False,Washington,WA,"7,705,281","172,119",57.76
+"DeSaulnier, Mark",D,97.13,98.92,CA,False,California,CA,"39,538,223","403,466",45.53
+"Bowman, Jamaal",D,96.91,98.3,NY,False,New York,NY,"20,201,249","122,057",54.76
+"Williams, Nikema",D,96.91,98.73,GA,False,Georgia,GA,"10,711,908","148,959",43.25
+"Jacobs, Sara",D,96.88,98.72,CA,False,California,CA,"39,538,223","403,466",45.53
+"McGovern, Jim",D,96.86,97.45,MA,False,Massachusetts,MA,"7,029,917","20,202",64.82
+"Gomez, Jimmy",D,96.78,98.68,CA,False,California,CA,"39,538,223","403,466",45.53
+"Chu, Judy",D,96.62,98.23,CA,False,California,CA,"39,538,223","403,466",45.53
+"Schakowsky, Jan",D,96.6,98.15,IL,False,Illinois,IL,"12,812,508","143,793",52.33
+"Neguse, Joe",D,96.26,98.98,CO,False,Colorado,CO,"5,773,714","268,431",56.01
+"Clarke, Yvette1",D,96.25,98.28,NY,False,New York,NY,"20,201,249","122,057",54.76
+"Clark, Katherine",D,96.25,98.74,MA,False,Massachusetts,MA,"7,029,917","20,202",64.82
+"Grijalva, Raul",D,96.24,98.04,AZ,False,Arizona,AZ,"7,151,502","294,207",45.43
+"Khanna, Ro",D,96.12,98.77,CA,False,California,CA,"39,538,223","403,466",45.53
+"Auchincloss, Jake",D,95.88,98.29,MA,False,Massachusetts,MA,"7,029,917","20,202",64.82
+"Bush, Cori",D,95.88,98.3,MO,False,Missouri,MO,"6,154,913","178,040",43.7
+"Leger Fernandez, Teresa",D,95.88,98.29,NM,False,New Mexico,NM,"2,117,522","314,161",37.16
+"Velazquez, Nydia",D,95.73,96.96,NY,False,New York,NY,"20,201,249","122,057",54.76
+"Stansbury, Melanie",D,95.45,98.36,NM,False,New Mexico,NM,"2,117,522","314,161",37.16
+"Lee, Barbara",D,95.32,97.53,CA,False,California,CA,"39,538,223","403,466",45.53
+"Watson Coleman, Bonnie",D,95.32,98.7,NJ,False,New Jersey,NJ,"9,288,994","19,047",54.26
+"Lowenthal, Alan",D,95.29,98.15,CA,False,California,CA,"39,538,223","403,466",45.53
+"Ocasio-Cortez, Alexandria",D,95.19,96.73,NY,False,New York,NY,"20,201,249","122,057",54.76
+"Nadler, Jerry",D,94.91,96.7,NY,False,New York,NY,"20,201,249","122,057",54.76
+"Sanchez, Linda",D,94.89,97.31,CA,False,California,CA,"39,538,223","403,466",45.53
+"Escobar, Veronica",D,94.65,98.64,TX,False,Texas,TX,"29,145,505","676,587",40.27
+"Omar, Ilhan",D,94.65,97.14,MN,False,Minnesota,MN,"5,706,494","206,232",62.3
+"Tlaib, Rashida",D,94.65,97.29,MI,False,Michigan,MI,"10,077,331","146,435",50.76
+"Bass, Karen",D,94.06,97.45,CA,False,California,CA,"39,538,223","403,466",45.53
+"Trahan, Lori",D,93.58,98.53,MA,False,Massachusetts,MA,"7,029,917","20,202",64.82
+"Pelosi, Nancy3",D,93.58,94.95,CA,False,California,CA,"39,538,223","403,466",45.53
+"Barragán, Nanette",D,93.35,97.81,CA,False,California,CA,"39,538,223","403,466",45.53
+"Takano, Mark",D,93.33,97.84,CA,False,California,CA,"39,538,223","403,466",45.53
+"Roybal-Allard, Lucille",D,93.31,95.61,CA,False,California,CA,"39,538,223","403,466",45.53
+"Pingree, Chellie",D,93.11,97.25,ME,False,Maine,ME,"1,362,359","79,883",57.54
+"Moore, Gwen",D,93.04,97.1,WI,False,Wisconsin,WI,"5,893,718","140,268",57.88
+"Bonamici, Suzanne",D,93.0,97.31,OR,False,Oregon,OR,"4,237,256","248,608",53.36
+"Huffman, Jared",D,93.0,97.75,CA,False,California,CA,"39,538,223","403,466",45.53
+"Davis, Danny",D,92.97,96.08,IL,False,Illinois,IL,"12,812,508","143,793",52.33
+"Waters, Maxine",D,92.89,95.74,CA,False,California,CA,"39,538,223","403,466",45.53
+"Napolitano, Grace",D,92.5,95.84,CA,False,California,CA,"39,538,223","403,466",45.53
+"Payne, Donald",D,92.43,97.24,NJ,False,New Jersey,NJ,"9,288,994","19,047",54.26
+"Jeffries, Hakeem",D,92.39,97.27,NY,False,New York,NY,"20,201,249","122,057",54.76
+"Garcia, Sylvia",D,91.98,97.29,TX,False,Texas,TX,"29,145,505","676,587",40.27
+"Evans, Dwight",D,91.96,97.68,PA,False,Pennsylvania,PA,"13,002,700","115,883",51.08
+"Kahele, Kai",D,91.75,96.61,HI,False,Hawaii,HI,"1,455,271","16,635",49.82
+"Strickland, Marilyn",D,91.75,96.61,WA,False,Washington,WA,"7,705,281","172,119",57.76
+"Manning, Kathy",D,91.67,96.6,NC,False,North Carolina,NC,"10,439,388","125,920",46.8
+"Dean, Madeleine",D,91.44,98.2,PA,False,Pennsylvania,PA,"13,002,700","115,883",51.08
+"Carter, Troy",D,91.38,96.45,LA,False,Louisiana,LA,"4,657,757","111,898",30.07
+"Kelly, Robin",D,91.01,96.93,IL,False,Illinois,IL,"12,812,508","143,793",52.33
+"DeGette, Diana",D,90.77,95.01,CO,False,Colorado,CO,"5,773,714","268,431",56.01
+"Mrvan, Frank",D,90.72,96.17,IN,False,Indiana,IN,"6,785,528","92,789",43.54
+"Cicilline, David",D,90.5,96.5,RI,False,Rhode Island,RI,"1,097,379","2,678",56.67
+"Tonko, Paul",D,90.43,96.6,NY,False,New York,NY,"20,201,249","122,057",54.76
+"Hayes, Jahana",D,90.32,97.94,CT,False,Connecticut,CT,"3,605,944","12,542",61.09
+"Mfume, Kweisi",D,90.3,94.08,MD,False,Maryland,MD,"6,177,224","25,142",54.47
+"Cohen, Steve",D,90.25,96.21,TN,False,Tennessee,TN,"6,910,840","106,798",41.24
+"Matsui, Doris",D,90.23,96.38,CA,False,California,CA,"39,538,223","403,466",45.53
+"Scanlon, Mary Gay",D,90.1,97.79,PA,False,Pennsylvania,PA,"13,002,700","115,883",51.08
+"Gallego, Ruben",D,90.02,97.01,AZ,False,Arizona,AZ,"7,151,502","294,207",45.43
+"Kildee, Dan",D,90.01,96.67,MI,False,Michigan,MI,"10,077,331","146,435",50.76
+"Sarbanes, John",D,89.97,96.79,MD,False,Maryland,MD,"6,177,224","25,142",54.47
+"Welch, Peter",D,89.97,96.23,VT,False,Vermont,VT,"643,077","23,871",61.9
+"Blumenauer, Earl",D,89.8,94.17,OR,False,Oregon,OR,"4,237,256","248,608",53.36
+"Ross, Deborah",D,89.69,95.76,NC,False,North Carolina,NC,"10,439,388","125,920",46.8
+"Rush, Bobby",D,89.37,94.09,IL,False,Illinois,IL,"12,812,508","143,793",52.33
+"McCollum, Betty",D,88.96,95.12,MN,False,Minnesota,MN,"5,706,494","206,232",62.3
+"Adams, Alma",D,88.96,96.74,NC,False,North Carolina,NC,"10,439,388","125,920",46.8
+"Dingell, Debbie",D,88.93,96.9,MI,False,Michigan,MI,"10,077,331","146,435",50.76
+"Lawrence, Brenda",D,88.82,96.82,MI,False,Michigan,MI,"10,077,331","146,435",50.76
+"Wilson, Frederica",D,88.61,95.8,FL,False,Florida,FL,"21,538,187","138,887",45.93
+"Meng, Grace",D,87.92,96.15,NY,False,New York,NY,"20,201,249","122,057",54.76
+"DeLauro, Rosa",D,87.91,93.62,CT,False,Connecticut,CT,"3,605,944","12,542",61.09
+"Doggett, Lloyd",D,87.88,92.76,TX,False,Texas,TX,"29,145,505","676,587",40.27
+"Pallone, Frank",D,87.73,93.47,NJ,False,New Jersey,NJ,"9,288,994","19,047",54.26
+"Lofgren, Zoe",D,87.59,92.69,CA,False,California,CA,"39,538,223","403,466",45.53
+"Yarmuth, John",D,87.43,96.04,KY,False,Kentucky,KY,"4,505,836","102,269",38.6
+"Lieu, Ted",D,87.37,96.42,CA,False,California,CA,"39,538,223","403,466",45.53
+"Maloney, Carolyn",D,86.95,92.98,NY,False,New York,NY,"20,201,249","122,057",54.76
+"Eshoo, Anna",D,86.89,93.03,CA,False,California,CA,"39,538,223","403,466",45.53
+"Johnson, Hank",D,86.85,95.87,GA,False,Georgia,GA,"10,711,908","148,959",43.25
+"Casten, Sean",D,86.63,97.07,IL,False,Illinois,IL,"12,812,508","143,793",52.33
+"Speier, Jackie",D,86.42,95.35,CA,False,California,CA,"39,538,223","403,466",45.53
+"Jackson-Lee, Sheila",D,86.36,92.36,TX,False,Texas,TX,"29,145,505","676,587",40.27
+"Frankel, Lois",D,86.2,95.71,FL,False,Florida,FL,"21,538,187","138,887",45.93
+"Stanton, Greg",D,86.1,97.07,AZ,False,Arizona,AZ,"7,151,502","294,207",45.43
+"Neal, Richard",D,86.07,92.94,MA,False,Massachusetts,MA,"7,029,917","20,202",64.82
+"Deutch, Ted",D,86.0,95.1,FL,False,Florida,FL,"21,538,187","138,887",45.93
+"Beyer, Don",D,85.98,96.07,VA,False,Virginia,VA,"8,631,393","102,279",54.22
+"Beatty, Joyce",D,85.91,95.51,OH,False,Ohio,OH,"11,799,448","105,829",48.64
+"Carson, André",D,85.82,95.19,IN,False,Indiana,IN,"6,785,528","92,789",43.54
+"Larson, John",D,85.69,93.26,CT,False,Connecticut,CT,"3,605,944","12,542",61.09
+"Cleaver, Emanuel",D,85.66,94.63,MO,False,Missouri,MO,"6,154,913","178,040",43.7
+"Scott, Bobby",D,85.62,92.43,VA,False,Virginia,VA,"8,631,393","102,279",54.22
+"Blunt Rochester, Lisa",D,85.37,96.13,DE,False,Delaware,DE,"989,948","5,047",51.55
+"Castro, Joaquin",D,85.25,95.45,TX,False,Texas,TX,"29,145,505","676,587",40.27
+"Castor, Kathy",D,85.07,94.92,FL,False,Florida,FL,"21,538,187","138,887",45.93
+"Levin, Mike",D,85.03,96.85,CA,False,California,CA,"39,538,223","403,466",45.53
+"Bourdeaux, Carolyn",D,84.54,93.22,GA,False,Georgia,GA,"10,711,908","148,959",43.25
+"Morelle, Joseph",D,84.38,96.38,NY,False,New York,NY,"20,201,249","122,057",54.76
+"Johnson, Eddie",D,84.28,91.77,TX,False,Texas,TX,"29,145,505","676,587",40.27
+"Soto, Darren",D,83.88,95.9,FL,False,Florida,FL,"21,538,187","138,887",45.93
+"Quigley, Mike",D,83.86,94.36,IL,False,Illinois,IL,"12,812,508","143,793",52.33
+"Schiff, Adam",D,83.58,93.12,CA,False,California,CA,"39,538,223","403,466",45.53
+"Meeks, Gregory",D,83.4,92.31,NY,False,New York,NY,"20,201,249","122,057",54.76
+"DeFazio, Peter",D,83.16,90.77,OR,False,Oregon,OR,"4,237,256","248,608",53.36
+"Vargas, Juan",D,83.1,94.76,CA,False,California,CA,"39,538,223","403,466",45.53
+"Cartwright, Matt",D,82.92,94.94,PA,False,Pennsylvania,PA,"13,002,700","115,883",51.08
+"Thompson, Mike",D,82.56,92.21,CA,False,California,CA,"39,538,223","403,466",45.53
+"Wasserman Schultz, Debbie",D,82.52,94.0,FL,False,Florida,FL,"21,538,187","138,887",45.93
+"Thompson, Bennie",D,82.48,91.3,MS,False,Mississippi,MS,"2,961,279","121,531",27.18
+"Brown, Anthony",D,82.48,95.67,MD,False,Maryland,MD,"6,177,224","25,142",54.47
+"Sherman, Brad",D,82.46,91.17,CA,False,California,CA,"39,538,223","403,466",45.53
+"Boyle, Brendan",D,82.34,95.29,PA,False,Pennsylvania,PA,"13,002,700","115,883",51.08
+"Clyburn, Jim",D,82.33,91.29,SC,False,South Carolina,SC,"5,118,425","77,857",41.99
+"Swalwell, Eric",D,82.13,94.74,CA,False,California,CA,"39,538,223","403,466",45.53
+"Krishnamoorthi, Raja",D,82.09,95.58,IL,False,Illinois,IL,"12,812,508","143,793",52.33
+"Trone, David",D,81.82,95.8,MD,False,Maryland,MD,"6,177,224","25,142",54.47
+"Wexton, Jennifer",D,81.82,96.17,VA,False,Virginia,VA,"8,631,393","102,279",54.22
+"Underwood, Lauren",D,81.62,95.93,IL,False,Illinois,IL,"12,812,508","143,793",52.33
+"Keating, Bill",D,81.34,93.65,MA,False,Massachusetts,MA,"7,029,917","20,202",64.82
+"Torres, Norma",D,81.31,95.21,CA,False,California,CA,"39,538,223","403,466",45.53
+"Price, David",D,81.19,91.06,NC,False,North Carolina,NC,"10,439,388","125,920",46.8
+"Cardenas, Tony",D,81.16,94.4,CA,False,California,CA,"39,538,223","403,466",45.53
+"Butler Demings, Val",D,81.14,95.32,FL,False,Florida,FL,"21,538,187","138,887",45.93
+"Sires, Albio",D,81.11,94.15,NJ,False,New Jersey,NJ,"9,288,994","19,047",54.26
+"Pascrell, Bill",D,81.08,90.8,NJ,False,New Jersey,NJ,"9,288,994","19,047",54.26
+"Malinowski, Tom",D,80.75,95.82,NJ,False,New Jersey,NJ,"9,288,994","19,047",54.26
+"Phillips, Dean",D,80.65,95.82,MN,False,Minnesota,MN,"5,706,494","206,232",62.3
+"Langevin, Jim",D,80.57,92.37,RI,False,Rhode Island,RI,"1,097,379","2,678",56.67
+"McEachin, Donald",D,80.36,94.97,VA,False,Virginia,VA,"8,631,393","102,279",54.22
+"Garamendi, John",D,79.7,92.83,CA,False,California,CA,"39,538,223","403,466",45.53
+"Titus, Dina",D,79.51,94.25,NV,False,Nevada,NV,"3,104,614","284,332",40.29
+"Porter, Katie",D,79.14,94.67,CA,False,California,CA,"39,538,223","403,466",45.53
+"Higgins, Brian",D,79.11,93.18,NY,False,New York,NY,"20,201,249","122,057",54.76
+"Green, Al",D,79.06,92.93,TX,False,Texas,TX,"29,145,505","676,587",40.27
+"Ryan, Tim",D,78.72,92.27,OH,False,Ohio,OH,"11,799,448","105,829",48.64
+"Lynch, Stephen",D,78.66,91.62,MA,False,Massachusetts,MA,"7,029,917","20,202",64.82
+"Butterfield, G.K.",D,78.63,92.39,NC,False,North Carolina,NC,"10,439,388","125,920",46.8
+"Pappas, Chris",D,78.61,94.92,NH,False,New Hampshire,NH,"1,377,529","23,187",61.76
+"Horsford, Steven",D,78.57,93.55,NV,False,Nevada,NV,"3,104,614","284,332",40.29
+"Allred, Colin",D,78.49,94.97,TX,False,Texas,TX,"29,145,505","676,587",40.27
+"Hoyer, Steny",D,78.19,89.48,MD,False,Maryland,MD,"6,177,224","25,142",54.47
+"Norcross, Donald",D,77.89,94.37,NJ,False,New Jersey,NJ,"9,288,994","19,047",54.26
+"Fletcher , Lizzie",D,77.54,93.35,TX,False,Texas,TX,"29,145,505","676,587",40.27
+"Stevens, Haley",D,77.54,95.04,MI,False,Michigan,MI,"10,077,331","146,435",50.76
+"Courtney, Joe",D,77.38,93.31,CT,False,Connecticut,CT,"3,605,944","12,542",61.09
+"Panetta, Jimmy",D,77.31,94.13,CA,False,California,CA,"39,538,223","403,466",45.53
+"Davids, Sharice",D,77.01,94.93,KS,False,Kansas,KS,"2,937,880","211,754",48.26
+"Kaptur, Marcy",D,76.9,88.59,OH,False,Ohio,OH,"11,799,448","105,829",48.64
+"Carbajal, Salud",D,76.51,93.89,CA,False,California,CA,"39,538,223","403,466",45.53
+"Schrier, Kim",D,76.34,95.03,WA,False,Washington,WA,"7,705,281","172,119",57.76
+"Moulton, Seth",D,76.29,93.75,MA,False,Massachusetts,MA,"7,029,917","20,202",64.82
+"DelBene, Suzan",D,76.2,93.55,WA,False,Washington,WA,"7,705,281","172,119",57.76
+"Veasey, Mark",D,76.11,92.95,TX,False,Texas,TX,"29,145,505","676,587",40.27
+"Crow, Jason",D,75.94,94.7,CO,False,Colorado,CO,"5,773,714","268,431",56.01
+"Larsen, Rick",D,75.89,90.44,WA,False,Washington,WA,"7,705,281","172,119",57.76
+"Wild, Susan",D,75.66,94.31,PA,False,Pennsylvania,PA,"13,002,700","115,883",51.08
+"McNerney, Jerry",D,74.92,91.61,CA,False,California,CA,"39,538,223","403,466",45.53
+"Kim, Andy",D,74.87,94.26,NJ,False,New Jersey,NJ,"9,288,994","19,047",54.26
+"Delgado, Antonio",D,74.33,94.26,NY,False,New York,NY,"20,201,249","122,057",54.76
+"Harder, Josh",D,74.19,93.89,CA,False,California,CA,"39,538,223","403,466",45.53
+"Smith, Adam",D,73.86,87.43,WA,False,Washington,WA,"7,705,281","172,119",57.76
+"McBath, Lucy",D,73.8,93.81,GA,False,Georgia,GA,"10,711,908","148,959",43.25
+"Kilmer, Derek",D,73.75,92.87,WA,False,Washington,WA,"7,705,281","172,119",57.76
+"Connolly, Gerry",D,73.7,91.78,VA,False,Virginia,VA,"8,631,393","102,279",54.22
+"Correa, Lou",D,73.43,91.81,CA,False,California,CA,"39,538,223","403,466",45.53
+"Houlahan, Chrissy",D,73.26,94.03,PA,False,Pennsylvania,PA,"13,002,700","115,883",51.08
+"Doyle, Mike",D,73.17,87.21,PA,False,Pennsylvania,PA,"13,002,700","115,883",51.08
+"Lee, Susie",D,72.58,93.89,NV,False,Nevada,NV,"3,104,614","284,332",40.29
+"Himes, Jim",D,72.41,90.28,CT,False,Connecticut,CT,"3,605,944","12,542",61.09
+"Kind, Ron",D,72.28,86.45,WI,False,Wisconsin,WI,"5,893,718","140,268",57.88
+"González, Vicente",D,71.26,89.87,TX,False,Texas,TX,"29,145,505","676,587",40.27
+"Kuster, Annie",D,70.51,91.87,NH,False,New Hampshire,NH,"1,377,529","23,187",61.76
+"Sewell, Terri",D,69.7,89.98,AL,False,Alabama,AL,"5,024,279","131,171",33.6
+"Case, Ed",D,69.62,83.64,HI,False,Hawaii,HI,"1,455,271","16,635",49.82
+"Rice, Kathleen",D,69.4,92.55,NY,False,New York,NY,"20,201,249","122,057",54.76
+"Scott, David",D,69.19,88.55,GA,False,Georgia,GA,"10,711,908","148,959",43.25
+"Perlmutter, Ed",D,69.16,90.11,CO,False,Colorado,CO,"5,773,714","268,431",56.01
+"Sherrill, Mikie",D,68.98,92.76,NJ,False,New Jersey,NJ,"9,288,994","19,047",54.26
+"Foster, Bill",D,68.76,90.56,IL,False,Illinois,IL,"12,812,508","143,793",52.33
+"Brownley, Julia",D,68.7,91.45,CA,False,California,CA,"39,538,223","403,466",45.53
+"Suozzi, Thomas",D,68.28,90.79,NY,False,New York,NY,"20,201,249","122,057",54.76
+"Lawson, Al",D,68.17,91.72,FL,False,Florida,FL,"21,538,187","138,887",45.93
+"Ruppersberger, Dutch",D,67.65,88.37,MD,False,Maryland,MD,"6,177,224","25,142",54.47
+"Crist, Charlie",D,67.17,91.21,FL,False,Florida,FL,"21,538,187","138,887",45.93
+"Aguilar, Pete",D,66.87,91.97,CA,False,California,CA,"39,538,223","403,466",45.53
+"Luria, Elaine",D,66.67,90.24,VA,False,Virginia,VA,"8,631,393","102,279",54.22
+"Craig, Angie",D,66.31,91.77,MN,False,Minnesota,MN,"5,706,494","206,232",62.3
+"Slotkin, Elissa",D,65.78,90.99,MI,False,Michigan,MI,"10,077,331","146,435",50.76
+"Lamb, Conor",D,64.98,86.53,PA,False,Pennsylvania,PA,"13,002,700","115,883",51.08
+"Axne, Cindy",D,64.17,91.24,IA,False,Iowa,IA,"3,190,369","144,669",57.21
+"Vela, Filemon",D,63.57,87.02,TX,False,Texas,TX,"29,145,505","676,587",40.27
+"O'Halleran, Tom",D,63.55,88.38,AZ,False,Arizona,AZ,"7,151,502","294,207",45.43
+"Schneider, Brad",D,62.34,87.54,IL,False,Illinois,IL,"12,812,508","143,793",52.33
+"Ruiz, Raul",D,61.97,88.98,CA,False,California,CA,"39,538,223","403,466",45.53
+"Schrader, Kurt",D,61.45,83.35,OR,False,Oregon,OR,"4,237,256","248,608",53.36
+"Bera, Ami",D,60.83,88.79,CA,False,California,CA,"39,538,223","403,466",45.53
+"Bishop, Sanford",D,60.02,79.67,GA,False,Georgia,GA,"10,711,908","148,959",43.25
+"Kirkpatrick, Ann",D,58.99,83.72,AZ,False,Arizona,AZ,"7,151,502","294,207",45.43
+"Cooper, Jim",D,58.32,79.91,TN,False,Tennessee,TN,"6,910,840","106,798",41.24
+"Bustos, Cheri",D,58.3,88.71,IL,False,Illinois,IL,"12,812,508","143,793",52.33
+"Maloney, Sean",D,57.46,87.62,NY,False,New York,NY,"20,201,249","122,057",54.76
+"Peters, Scott",D,57.08,85.62,CA,False,California,CA,"39,538,223","403,466",45.53
+"Murphy, Stephanie",D,57.06,86.45,FL,False,Florida,FL,"21,538,187","138,887",45.93
+"Spanberger, Abigail",D,56.68,88.7,VA,False,Virginia,VA,"8,631,393","102,279",54.22
+"Gottheimer, Josh",D,52.25,83.32,NJ,False,New Jersey,NJ,"9,288,994","19,047",54.26
+"Golden, Jared",D,50.27,84.43,ME,False,Maine,ME,"1,362,359","79,883",57.54
+"Costa, Jim",D,46.65,75.03,CA,False,California,CA,"39,538,223","403,466",45.53
+"Cuellar, Henry",D,42.59,74.9,TX,False,Texas,TX,"29,145,505","676,587",40.27
+"Massie, Thomas",R,25.55,13.52,KY,False,Kentucky,KY,"4,505,836","102,269",38.6
+"Fitzpatrick, Brian",R,23.65,32.46,PA,False,Pennsylvania,PA,"13,002,700","115,883",51.08
+"Katko, John",R,19.1,20.84,NY,False,New York,NY,"20,201,249","122,057",54.76
+"Smith, Chris",R,15.75,21.04,NJ,False,New Jersey,NJ,"9,288,994","19,047",54.26
+"Griffith, Morgan",R,14.35,7.37,VA,False,Virginia,VA,"8,631,393","102,279",54.22
+"Stefanik, Elise",R,13.59,15.83,NY,False,New York,NY,"20,201,249","122,057",54.76
+"McClintock, Tom",R,12.88,5.4,CA,False,California,CA,"39,538,223","403,466",45.53
+"Biggs, Andy",R,12.28,5.16,AZ,False,Arizona,AZ,"7,151,502","294,207",45.43
+"Upton, Fred",R,12.01,14.16,MI,False,Michigan,MI,"10,077,331","146,435",50.76
+"Van Drew, Jeff",R,11.83,55.24,NJ,False,New Jersey,NJ,"9,288,994","19,047",54.26
+"Buck, Ken",R,10.25,4.05,CO,False,Colorado,CO,"5,773,714","268,431",56.01
+"Davidson, Warren",R,10.11,4.2,OH,False,Ohio,OH,"11,799,448","105,829",48.64
+"Mast, Brian",R,9.01,9.74,FL,False,Florida,FL,"21,538,187","138,887",45.93
+"Perry, Scott",R,8.89,3.87,PA,False,Pennsylvania,PA,"13,002,700","115,883",51.08
+"Posey, Bill",R,8.87,6.05,FL,False,Florida,FL,"21,538,187","138,887",45.93
+"Herrera Beutler, Jaime",R,8.78,9.97,WA,False,Washington,WA,"7,705,281","172,119",57.76
+"Gaetz, Matt",R,8.76,7.59,FL,False,Florida,FL,"21,538,187","138,887",45.93
+"Davis, Rodney",R,8.76,10.38,IL,False,Illinois,IL,"12,812,508","143,793",52.33
+"Schweikert, Dave",R,8.72,4.82,AZ,False,Arizona,AZ,"7,151,502","294,207",45.43
+"Roy, Chip",R,8.65,7.11,TX,False,Texas,TX,"29,145,505","676,587",40.27
+"Zeldin, Lee",R,8.59,8.26,NY,False,New York,NY,"20,201,249","122,057",54.76
+"Meijer, Peter",R,8.33,15.32,MI,False,Michigan,MI,"10,077,331","146,435",50.76
+"Fortenberry, Jeff",R,8.25,11.93,NE,False,Nebraska,NE,"1,961,504","198,974",52.57
+"Mace, Nancy",R,8.25,12.71,SC,False,South Carolina,SC,"5,118,425","77,857",41.99
+"Brooks, Mo",R,8.04,4.79,AL,False,Alabama,AL,"5,024,279","131,171",33.6
+"Gosar, Paul",R,7.67,4.65,AZ,False,Arizona,AZ,"7,151,502","294,207",45.43
+"Mooney, Alex",R,7.54,4.15,WV,False,West Virginia,WV,"1,793,716","62,259",29.5
+"Gonzalez, Anthony",R,7.53,15.27,OH,False,Ohio,OH,"11,799,448","105,829",48.64
+"Diaz-Balart, Mario",R,7.36,11.43,FL,False,Florida,FL,"21,538,187","138,887",45.93
+"Buchanan, Vern",R,7.25,8.86,FL,False,Florida,FL,"21,538,187","138,887",45.93
+"Harris, Andy",R,7.13,4.22,MD,False,Maryland,MD,"6,177,224","25,142",54.47
+"Gohmert, Louie",R,7.04,4.98,TX,False,Texas,TX,"29,145,505","676,587",40.27
+"Steil, Bryan",R,6.95,8.18,WI,False,Wisconsin,WI,"5,893,718","140,268",57.88
+"Grothman, Glenn",R,6.85,3.38,WI,False,Wisconsin,WI,"5,893,718","140,268",57.88
+"Joyce, David",R,6.82,10.15,OH,False,Ohio,OH,"11,799,448","105,829",48.64
+"Reed, Tom",R,6.7,10.76,NY,False,New York,NY,"20,201,249","122,057",54.76
+"Comer, James",R,6.57,2.82,KY,False,Kentucky,KY,"4,505,836","102,269",38.6
+"Taylor, Van",R,6.45,4.07,TX,False,Texas,TX,"29,145,505","676,587",40.27
+"Burchett, Tim",R,6.42,4.0,TN,False,Tennessee,TN,"6,910,840","106,798",41.24
+"McKinley, David",R,6.33,8.71,WV,False,West Virginia,WV,"1,793,716","62,259",29.5
+"Gonzales, Tony",R,6.19,10.17,TX,False,Texas,TX,"29,145,505","676,587",40.27
+"Kim, Young",R,6.19,13.25,CA,False,California,CA,"39,538,223","403,466",45.53
+"Young, Don",R,6.16,11.01,AK,False,Alaska,AK,"733,391","1,477,953",43.77
+"Kinzinger, Adam",R,6.1,9.32,IL,False,Illinois,IL,"12,812,508","143,793",52.33
+"Hollingsworth, Trey",R,6.04,9.35,IN,False,Indiana,IN,"6,785,528","92,789",43.54
+"Rice, Tom",R,5.89,3.63,SC,False,South Carolina,SC,"5,118,425","77,857",41.99
+"Stauber, Pete",R,5.88,14.77,MN,False,Minnesota,MN,"5,706,494","206,232",62.3
+"Chabot, Steve",R,5.86,4.99,OH,False,Ohio,OH,"11,799,448","105,829",48.64
+"Bishop, Dan",R,5.76,1.95,NC,False,North Carolina,NC,"10,439,388","125,920",46.8
+"Cloud, Michael",R,5.71,3.39,TX,False,Texas,TX,"29,145,505","676,587",40.27
+"Bost, Mike",R,5.56,7.64,IL,False,Illinois,IL,"12,812,508","143,793",52.33
+"Emmer, Tom",R,5.53,5.11,MN,False,Minnesota,MN,"5,706,494","206,232",62.3
+"Hice, Jody",R,5.49,1.99,GA,False,Georgia,GA,"10,711,908","148,959",43.25
+"Duncan, Jeff",R,5.46,2.97,SC,False,South Carolina,SC,"5,118,425","77,857",41.99
+"Norman, Ralph",R,5.41,1.95,SC,False,South Carolina,SC,"5,118,425","77,857",41.99
+"Budd, Ted",R,5.39,2.11,NC,False,North Carolina,NC,"10,439,388","125,920",46.8
+"Jordan, Jim",R,5.39,2.44,OH,False,Ohio,OH,"11,799,448","105,829",48.64
+"Valadao, David",R,5.26,7.71,CA,False,California,CA,"39,538,223","403,466",45.53
+"Garbarino, Andrew",R,5.21,15.88,NY,False,New York,NY,"20,201,249","122,057",54.76
+"Miller-Meeks, Mariannette",R,5.15,8.51,IA,False,Iowa,IA,"3,190,369","144,669",57.21
+"Graves, Garret",R,5.12,4.47,LA,False,Louisiana,LA,"4,657,757","111,898",30.07
+"Newhouse, Dan",R,5.12,6.65,WA,False,Washington,WA,"7,705,281","172,119",57.76
+"Bergman, Jack",R,5.07,5.01,MI,False,Michigan,MI,"10,077,331","146,435",50.76
+"Burgess, Mike",R,4.94,4.07,TX,False,Texas,TX,"29,145,505","676,587",40.27
+"Waltz, Michael",R,4.86,8.95,FL,False,Florida,FL,"21,538,187","138,887",45.93
+"Armstrong, Kelly",R,4.81,5.94,ND,False,North Dakota,ND,"779,094","178,711",53.14
+"Jacobs, Chris",R,4.67,10.67,NY,False,New York,NY,"20,201,249","122,057",54.76
+"Huizenga, Bill",R,4.59,2.98,MI,False,Michigan,MI,"10,077,331","146,435",50.76
+"Thompson, Glenn",R,4.59,8.26,PA,False,Pennsylvania,PA,"13,002,700","115,883",51.08
+"Gallagher, Mike",R,4.52,6.22,WI,False,Wisconsin,WI,"5,893,718","140,268",57.88
+"Garcia, Mike",R,4.39,7.31,CA,False,California,CA,"39,538,223","403,466",45.53
+"Wittman, Rob",R,4.35,4.83,VA,False,Virginia,VA,"8,631,393","102,279",54.22
+"Cline, Ben",R,4.28,2.25,VA,False,Virginia,VA,"8,631,393","102,279",54.22
+"Salazar, Maria",R,4.26,14.16,FL,False,Florida,FL,"21,538,187","138,887",45.93
+"Tenney, Claudia",R,4.26,4.91,NY,False,New York,NY,"20,201,249","122,057",54.76
+"Boebert, Lauren",R,4.21,5.63,CO,False,Colorado,CO,"5,773,714","268,431",56.01
+"Turner, Mike",R,4.18,10.92,OH,False,Ohio,OH,"11,799,448","105,829",48.64
+"Bacon, Don",R,4.18,8.45,NE,False,Nebraska,NE,"1,961,504","198,974",52.57
+"Hinson, Ashley",R,4.12,6.36,IA,False,Iowa,IA,"3,190,369","144,669",57.21
+"Malliotakis, Nicole",R,4.12,11.91,NY,False,New York,NY,"20,201,249","122,057",54.76
+"Rosendale, Matt",R,4.12,5.17,MT,False,Montana,MT,"1,084,225","376,962",46.64
+"Spartz, Victoria",R,4.12,5.51,IN,False,Indiana,IN,"6,785,528","92,789",43.54
+"Steele, Michelle",R,4.12,6.06,CA,False,California,CA,"39,538,223","403,466",45.53
+"Keller, Fred",R,4.09,3.15,PA,False,Pennsylvania,PA,"13,002,700","115,883",51.08
+"Simpson, Mike",R,3.98,9.17,ID,False,Idaho,ID,"1,839,106","214,045",47.77
+"Loudermilk, Barry",R,3.93,1.57,GA,False,Georgia,GA,"10,711,908","148,959",43.25
+"Amodei, Mark",R,3.88,5.79,NV,False,Nevada,NV,"3,104,614","284,332",40.29
+"Gooden, Lance",R,3.74,2.06,TX,False,Texas,TX,"29,145,505","676,587",40.27
+"Webster, Dan",R,3.56,3.91,FL,False,Florida,FL,"21,538,187","138,887",45.93
+"Rogers, Mike",R,3.49,6.62,AL,False,Alabama,AL,"5,024,279","131,171",33.6
+"DesJarlais, Scott",R,3.48,2.67,TN,False,Tennessee,TN,"6,910,840","106,798",41.24
+"Higgins, Clay",R,3.45,2.32,LA,False,Louisiana,LA,"4,657,757","111,898",30.07
+"Weber, Randy",R,3.36,2.04,TX,False,Texas,TX,"29,145,505","676,587",40.27
+"Cole, Tom",R,3.3,7.31,OK,False,Oklahoma,OK,"3,959,353","177,660",32.8
+"Bilirakis, Gus",R,3.3,5.81,FL,False,Florida,FL,"21,538,187","138,887",45.93
+"Smucker, Lloyd",R,3.29,3.76,PA,False,Pennsylvania,PA,"13,002,700","115,883",51.08
+"Palmer, Gary",R,3.28,1.19,AL,False,Alabama,AL,"5,024,279","131,171",33.6
+"Steube, Greg",R,3.26,2.76,FL,False,Florida,FL,"21,538,187","138,887",45.93
+"Hill, French",R,3.25,3.26,AR,False,Arkansas,AR,"3,011,524","134,771",32.1
+"Rose, John",R,3.24,1.76,TN,False,Tennessee,TN,"6,910,840","106,798",41.24
+"Fulcher, Russ",R,3.23,1.64,ID,False,Idaho,ID,"1,839,106","214,045",47.77
+"Crenshaw, Dan",R,3.21,6.23,TX,False,Texas,TX,"29,145,505","676,587",40.27
+"Good, Bob",R,3.12,4.52,VA,False,Virginia,VA,"8,631,393","102,279",54.22
+"Greene, Marjorie",R,3.12,5.58,GA,False,Georgia,GA,"10,711,908","148,959",43.25
+"Feenstra, Randy",R,3.09,3.39,IA,False,Iowa,IA,"3,190,369","144,669",57.21
+"Giménez, Carlos",R,3.09,12.29,FL,False,Florida,FL,"21,538,187","138,887",45.93
+"Obernolte, Jay",R,3.09,8.94,CA,False,California,CA,"39,538,223","403,466",45.53
+"Foxx, Virginia",R,3.05,2.56,NC,False,North Carolina,NC,"10,439,388","125,920",46.8
+"Banks, Jim",R,2.99,1.29,IN,False,Indiana,IN,"6,785,528","92,789",43.54
+"Curtis, John",R,2.99,2.53,UT,False,Utah,UT,"3,271,616","212,818",50.58
+"Murphy, Greg",R,2.94,3.7,NC,False,North Carolina,NC,"10,439,388","125,920",46.8
+"Long, Billy",R,2.83,2.43,MO,False,Missouri,MO,"6,154,913","178,040",43.7
+"Rogers, Hal",R,2.79,7.24,KY,False,Kentucky,KY,"4,505,836","102,269",38.6
+"Aderholt, Robert",R,2.78,6.05,AL,False,Alabama,AL,"5,024,279","131,171",33.6
+"Graves, Sam",R,2.75,3.8,MO,False,Missouri,MO,"6,154,913","178,040",43.7
+"Johnson, Mike",R,2.75,2.13,LA,False,Louisiana,LA,"4,657,757","111,898",30.07
+"Arrington , Jodey",R,2.7,1.54,TX,False,Texas,TX,"29,145,505","676,587",40.27
+"Johnson, Dusty",R,2.67,3.61,SD,False,South Dakota,SD,"886,667","196,350",51.81
+"Pence, Greg",R,2.67,4.02,IN,False,Indiana,IN,"6,785,528","92,789",43.54
+"McMorris Rodgers, Cathy",R,2.65,4.06,WA,False,Washington,WA,"7,705,281","172,119",57.76
+"Rouzer, David",R,2.64,1.85,NC,False,North Carolina,NC,"10,439,388","125,920",46.8
+"Tiffany, Tom",R,2.63,3.14,WI,False,Wisconsin,WI,"5,893,718","140,268",57.88
+"Smith, Jason",R,2.6,1.42,MO,False,Missouri,MO,"6,154,913","178,040",43.7
+"Scott, Austin",R,2.5,1.89,GA,False,Georgia,GA,"10,711,908","148,959",43.25
+"Hudson, Richard",R,2.41,2.25,NC,False,North Carolina,NC,"10,439,388","125,920",46.8
+"McCaul, Michael",R,2.38,4.29,TX,False,Texas,TX,"29,145,505","676,587",40.27
+"Stewart, Chris",R,2.36,2.66,UT,False,Utah,UT,"3,271,616","212,818",50.58
+"Wenstrup, Brad",R,2.35,2.11,OH,False,Ohio,OH,"11,799,448","105,829",48.64
+"Kelly, Mike",R,2.31,5.46,PA,False,Pennsylvania,PA,"13,002,700","115,883",51.08
+"Granger, Kay",R,2.27,4.99,TX,False,Texas,TX,"29,145,505","676,587",40.27
+"Kelly, Trent",R,2.27,1.39,MS,False,Mississippi,MS,"2,961,279","121,531",27.18
+"Wagner, Ann",R,2.26,3.83,MO,False,Missouri,MO,"6,154,913","178,040",43.7
+"LaMalfa, Doug",R,2.24,2.47,CA,False,California,CA,"39,538,223","403,466",45.53
+"Lamborn, Doug",R,2.22,1.34,CO,False,Colorado,CO,"5,773,714","268,431",56.01
+"LaHood, Darin",R,2.16,2.69,IL,False,Illinois,IL,"12,812,508","143,793",52.33
+"Green, Mark",R,2.16,1.93,TN,False,Tennessee,TN,"6,910,840","106,798",41.24
+"Crawford, Rick",R,2.16,3.77,AR,False,Arkansas,AR,"3,011,524","134,771",32.1
+"Lucas, Frank",R,2.15,5.09,OK,False,Oklahoma,OK,"3,959,353","177,660",32.8
+"Womack, Steve",R,2.13,4.98,AR,False,Arkansas,AR,"3,011,524","134,771",32.1
+"Rutherford, John",R,2.11,5.66,FL,False,Florida,FL,"21,538,187","138,887",45.93
+"Hern, Kevin",R,2.08,1.23,OK,False,Oklahoma,OK,"3,959,353","177,660",32.8
+"Miller, Mary",R,2.08,3.15,IL,False,Illinois,IL,"12,812,508","143,793",52.33
+"Owens, Burgess",R,2.08,3.42,UT,False,Utah,UT,"3,271,616","212,818",50.58
+"Barr, Andy",R,2.08,2.75,KY,False,Kentucky,KY,"4,505,836","102,269",38.6
+"Bentz, Cliff",R,2.06,4.24,OR,False,Oregon,OR,"4,237,256","248,608",53.36
+"Moore, Blake",R,2.06,4.72,UT,False,Utah,UT,"3,271,616","212,818",50.58
+"Nehls, Troy",R,2.06,1.28,TX,False,Texas,TX,"29,145,505","676,587",40.27
+"Van Duyne, Beth",R,2.06,1.71,TX,False,Texas,TX,"29,145,505","676,587",40.27
+"Babin, Brian",R,2.05,1.16,TX,False,Texas,TX,"29,145,505","676,587",40.27
+"Issa, Darrell",R,2.01,3.42,CA,False,California,CA,"39,538,223","403,466",45.53
+"Walberg, Timothy",R,2.01,2.43,MI,False,Michigan,MI,"10,077,331","146,435",50.76
+"Scalise, Steve",R,1.97,1.76,LA,False,Louisiana,LA,"4,657,757","111,898",30.07
+"Wilson, Joe",R,1.92,2.14,SC,False,South Carolina,SC,"5,118,425","77,857",41.99
+"McHenry, Patrick",R,1.83,2.57,NC,False,North Carolina,NC,"10,439,388","125,920",46.8
+"Cheney, Liz",R,1.8,3.22,WY,False,Wyoming,WY,"576,851","251,470",46.9
+"Ferguson, Drew",R,1.79,1.59,GA,False,Georgia,GA,"10,711,908","148,959",43.25
+"Carter, John",R,1.79,3.99,TX,False,Texas,TX,"29,145,505","676,587",40.27
+"Bucshon, Larry",R,1.69,4.13,IN,False,Indiana,IN,"6,785,528","92,789",43.54
+"Johnson, Bill",R,1.69,3.53,OH,False,Ohio,OH,"11,799,448","105,829",48.64
+"Brady, Kevin",R,1.67,2.73,TX,False,Texas,TX,"29,145,505","676,587",40.27
+"Timmons, William",R,1.67,1.53,SC,False,South Carolina,SC,"5,118,425","77,857",41.99
+"Carter, Buddy",R,1.65,1.51,GA,False,Georgia,GA,"10,711,908","148,959",43.25
+"Westerman, Bruce",R,1.63,1.18,AR,False,Arkansas,AR,"3,011,524","134,771",32.1
+"Moolenaar, John",R,1.62,4.1,MI,False,Michigan,MI,"10,077,331","146,435",50.76
+"Hagedorn, Jim",R,1.61,3.35,MN,False,Minnesota,MN,"5,706,494","206,232",62.3
+"Guest, Michael",R,1.6,3.21,MS,False,Mississippi,MS,"2,961,279","121,531",27.18
+"Mullin, Markwayne",R,1.56,2.4,OK,False,Oklahoma,OK,"3,959,353","177,660",32.8
+"Calvert, Ken",R,1.56,6.12,CA,False,California,CA,"39,538,223","403,466",45.53
+"Williams, Roger",R,1.56,1.58,TX,False,Texas,TX,"29,145,505","676,587",40.27
+"McCarthy, Kevin",R,1.55,3.1,CA,False,California,CA,"39,538,223","403,466",45.53
+"Smith, Adrian",R,1.55,2.08,NE,False,Nebraska,NE,"1,961,504","198,974",52.57
+"Hartzler, Vicky",R,1.53,3.01,MO,False,Missouri,MO,"6,154,913","178,040",43.7
+"Guthrie, Brett",R,1.43,4.08,KY,False,Kentucky,KY,"4,505,836","102,269",38.6
+"Letlow, Julia",R,1.43,3.18,LA,False,Louisiana,LA,"4,657,757","111,898",30.07
+"Walorski, Jackie",R,1.39,3.36,IN,False,Indiana,IN,"6,785,528","92,789",43.54
+"Palazzo, Steven",R,1.35,2.63,MS,False,Mississippi,MS,"2,961,279","121,531",27.18
+"Luetkemeyer, Blaine",R,1.27,3.36,MO,False,Missouri,MO,"6,154,913","178,040",43.7
+"Fleischmann, Chuck",R,1.25,3.26,TN,False,Tennessee,TN,"6,910,840","106,798",41.24
+"Estes, Ron",R,1.25,1.18,KS,False,Kansas,KS,"2,937,880","211,754",48.26
+"Sessions, Pete",R,1.16,1.52,TX,False,Texas,TX,"29,145,505","676,587",40.27
+"Nunes, Devin",R,1.15,3.55,CA,False,California,CA,"39,538,223","403,466",45.53
+"Reschenthaler, Guy",R,1.08,6.86,PA,False,Pennsylvania,PA,"13,002,700","115,883",51.08
+"Miller, Carol",R,1.08,3.07,WV,False,West Virginia,WV,"1,793,716","62,259",29.5
+"Meuser, Dan",R,1.07,2.58,PA,False,Pennsylvania,PA,"13,002,700","115,883",51.08
+"Gibbs, Bob",R,1.07,2.74,OH,False,Ohio,OH,"11,799,448","105,829",48.64
+"Herrell, Yvette",R,1.05,2.23,NM,False,New Mexico,NM,"2,117,522","314,161",37.16
+"Donalds, Byron",R,1.04,1.72,FL,False,Florida,FL,"21,538,187","138,887",45.93
+"Moore, Barry",R,1.04,0.88,AL,False,Alabama,AL,"5,024,279","131,171",33.6
+"Bice, Stephanie",R,1.03,3.39,OK,False,Oklahoma,OK,"3,959,353","177,660",32.8
+"Cammack, Kat",R,1.03,2.13,FL,False,Florida,FL,"21,538,187","138,887",45.93
+"Cawthorn, Madison",R,1.03,1.3,NC,False,North Carolina,NC,"10,439,388","125,920",46.8
+"Clyde, Andrew",R,1.03,1.3,GA,False,Georgia,GA,"10,711,908","148,959",43.25
+"Fischbach, Michelle",R,1.03,1.27,MN,False,Minnesota,MN,"5,706,494","206,232",62.3
+"McClain, Lisa",R,1.03,0.85,MI,False,Michigan,MI,"10,077,331","146,435",50.76
+"Allen, Rick",R,1.02,0.67,GA,False,Georgia,GA,"10,711,908","148,959",43.25
+"Balderson, Troy",R,1.02,4.36,OH,False,Ohio,OH,"11,799,448","105,829",48.64
+"Latta, Bob",R,0.97,1.53,OH,False,Ohio,OH,"11,799,448","105,829",48.64
+"Kustoff, David",R,0.9,1.55,TN,False,Tennessee,TN,"6,910,840","106,798",41.24
+"Lesko, Debbie",R,0.88,1.56,AZ,False,Arizona,AZ,"7,151,502","294,207",45.43
+"Dunn, Neal",R,0.61,2.22,FL,False,Florida,FL,"21,538,187","138,887",45.93
+"Joyce, John",R,0.54,1.51,PA,False,Pennsylvania,PA,"13,002,700","115,883",51.08
+"Baird, Jim",R,0.53,3.5,IN,False,Indiana,IN,"6,785,528","92,789",43.54
+"Carl, Jerry",R,0.0,0.85,AL,False,Alabama,AL,"5,024,279","131,171",33.6
+"Ellzey, Jake",R,0.0,0.0,TX,False,Texas,TX,"29,145,505","676,587",40.27
+"Fallon, Pat",R,0.0,0.43,TX,False,Texas,TX,"29,145,505","676,587",40.27
+"Fitzgerald, Scott",R,0.0,0.0,WI,False,Wisconsin,WI,"5,893,718","140,268",57.88
+"Franklin, Scott",R,0.0,0.43,FL,False,Florida,FL,"21,538,187","138,887",45.93
+"Harshbarger, Diana",R,0.0,0.43,TN,False,Tennessee,TN,"6,910,840","106,798",41.24
+"Jackson, Ronny",R,0.0,1.36,TX,False,Texas,TX,"29,145,505","676,587",40.27
+"LaTurner, Jake",R,0.0,0.85,KS,False,Kansas,KS,"2,937,880","211,754",48.26
+"Mann, Tracey",R,0.0,0.42,KS,False,Kansas,KS,"2,937,880","211,754",48.26
+"Pfluger, August",R,0.0,0.44,TX,False,Texas,TX,"29,145,505","676,587",40.27
+"Padilla, Alex",D,99.42,99.73,CA,True,California,CA,"39,538,223","403,466",45.53
+"Ossoff, Jon",D,98.83,98.9,GA,True,Georgia,GA,"10,711,908","148,959",43.25
+"Markey, Ed",D,98.28,99.03,MA,True,Massachusetts,MA,"7,029,917","20,202",64.82
+"Lujan, Ben",D,97.69,98.91,NM,True,New Mexico,NM,"2,117,522","314,161",37.16
+"Warnock, Raphael",D,97.66,98.32,GA,True,Georgia,GA,"10,711,908","148,959",43.25
+"Warren, Elizabeth",D,97.51,98.83,MA,True,Massachusetts,MA,"7,029,917","20,202",64.82
+"Merkley, Jeff",D,97.34,98.2,OR,True,Oregon,OR,"4,237,256","248,608",53.36
+"Hirono, Mazie",D,97.14,97.68,HI,True,Hawaii,HI,"1,455,271","16,635",49.82
+"Van Hollen, Chris",D,97.03,95.09,MD,True,Maryland,MD,"6,177,224","25,142",54.47
+"Gillibrand, Kirsten",D,97.01,98.37,NY,True,New York,NY,"20,201,249","122,057",54.76
+"Hickenlooper, John",D,96.53,98.36,CO,True,Colorado,CO,"5,773,714","268,431",56.01
+"Booker, Cory",D,96.26,97.76,NJ,True,New Jersey,NJ,"9,288,994","19,047",54.26
+"Smith, Tina",D,95.68,93.14,MN,True,Minnesota,MN,"5,706,494","206,232",62.3
+"Brown, Sherrod",D,95.6,96.4,OH,True,Ohio,OH,"11,799,448","105,829",48.64
+"Baldwin, Tammy",D,95.53,94.75,WI,True,Wisconsin,WI,"5,893,718","140,268",57.88
+"Schatz, Brian",D,95.38,95.95,HI,True,Hawaii,HI,"1,455,271","16,635",49.82
+"Sanders, Bernie",I,94.89,96.71,VT,True,Vermont,VT,"643,077","23,871",61.9
+"Durbin, Dick",D,94.65,94.57,IL,True,Illinois,IL,"12,812,508","143,793",52.33
+"Blumenthal, Richard",D,94.55,96.23,CT,True,Connecticut,CT,"3,605,944","12,542",61.09
+"Reed, Jack",D,94.45,95.23,RI,True,Rhode Island,RI,"1,097,379","2,678",56.67
+"Heinrich, Martin",D,93.1,93.65,NM,True,New Mexico,NM,"2,117,522","314,161",37.16
+"Schumer, Chuck",D,92.16,94.74,NY,True,New York,NY,"20,201,249","122,057",54.76
+"Whitehouse, Sheldon",D,91.69,93.69,RI,True,Rhode Island,RI,"1,097,379","2,678",56.67
+"Menendez, Bob",D,91.6,94.73,NJ,True,New Jersey,NJ,"9,288,994","19,047",54.26
+"Cardin, Ben",D,91.16,93.71,MD,True,Maryland,MD,"6,177,224","25,142",54.47
+"Kelly, Mark",D,90.36,92.98,AZ,True,Arizona,AZ,"7,151,502","294,207",45.43
+"Leahy, Pat",D,90.03,92.61,VT,True,Vermont,VT,"643,077","23,871",61.9
+"Duckworth, Tammy",D,89.6,90.27,IL,True,Illinois,IL,"12,812,508","143,793",52.33
+"Murray, Patty",D,88.8,92.45,WA,True,Washington,WA,"7,705,281","172,119",57.76
+"Stabenow, Debbie Ann",D,88.62,92.77,MI,True,Michigan,MI,"10,077,331","146,435",50.76
+"Wyden, Ron",D,88.59,92.35,OR,True,Oregon,OR,"4,237,256","248,608",53.36
+"Cortez Masto, Catherine",D,88.47,88.76,NV,True,Nevada,NV,"3,104,614","284,332",40.29
+"Cantwell, Maria",D,88.24,92.7,WA,True,Washington,WA,"7,705,281","172,119",57.76
+"Klobuchar, Amy",D,87.07,91.86,MN,True,Minnesota,MN,"5,706,494","206,232",62.3
+"Peters, Gary",D,86.86,88.17,MI,True,Michigan,MI,"10,077,331","146,435",50.76
+"Casey, Bob",D,86.67,90.9,PA,True,Pennsylvania,PA,"13,002,700","115,883",51.08
+"Rosen, Jacky",D,84.92,86.77,NV,True,Nevada,NV,"3,104,614","284,332",40.29
+"Murphy, Chris",D,84.1,88.51,CT,True,Connecticut,CT,"3,605,944","12,542",61.09
+"Kaine, Tim",D,80.99,86.73,VA,True,Virginia,VA,"8,631,393","102,279",54.22
+"Coons, Chris",D,80.69,88.0,DE,True,Delaware,DE,"989,948","5,047",51.55
+"Bennet, Michael",D,80.25,87.74,CO,True,Colorado,CO,"5,773,714","268,431",56.01
+"Shaheen, Jeanne",D,80.04,88.28,NH,True,New Hampshire,NH,"1,377,529","23,187",61.76
+"Feinstein, Dianne",D,79.58,86.85,CA,True,California,CA,"39,538,223","403,466",45.53
+"Hassan, Maggie",D,78.72,82.46,NH,True,New Hampshire,NH,"1,377,529","23,187",61.76
+"Tester, Jon",D,75.66,85.06,MT,True,Montana,MT,"1,084,225","376,962",46.64
+"Warner, Mark",D,73.8,84.8,VA,True,Virginia,VA,"8,631,393","102,279",54.22
+"Carper, Tom",D,72.6,83.07,DE,True,Delaware,DE,"989,948","5,047",51.55
+"King, Angus",I,72.31,81.68,ME,True,Maine,ME,"1,362,359","79,883",57.54
+"Sinema, Kyrsten",D,68.68,69.51,AZ,True,Arizona,AZ,"7,151,502","294,207",45.43
+"Manchin, Joe",D,59.57,65.86,WV,True,West Virginia,WV,"1,793,716","62,259",29.5
+"Collins, Susan",R,24.75,36.31,ME,True,Maine,ME,"1,362,359","79,883",57.54
+"Paul, Rand1",R,11.75,10.44,KY,True,Kentucky,KY,"4,505,836","102,269",38.6
+"Murkowski, Lisa",R,9.82,24.15,AK,True,Alaska,AK,"733,391","1,477,953",43.77
+"Lee, Mike",R,6.64,7.35,UT,True,Utah,UT,"3,271,616","212,818",50.58
+"Shelby, Richard",R,5.89,9.56,AL,True,Alabama,AL,"5,024,279","131,171",33.6
+"Graham, Lindsey",R,4.8,11.65,SC,True,South Carolina,SC,"5,118,425","77,857",41.99
+"Grassley, Chuck",R,4.54,8.11,IA,True,Iowa,IA,"3,190,369","144,669",57.21
+"Portman, Rob",R,3.68,11.63,OH,True,Ohio,OH,"11,799,448","105,829",48.64
+"Moran, Jerry",R,3.46,7.1,KS,True,Kansas,KS,"2,937,880","211,754",48.26
+"Romney, Mitt",R,3.19,12.49,UT,True,Utah,UT,"3,271,616","212,818",50.58
+"Cruz, Ted",R,3.06,2.91,TX,True,Texas,TX,"29,145,505","676,587",40.27
+"Daines, Steve",R,3.04,4.44,MT,True,Montana,MT,"1,084,225","376,962",46.64
+"Thune, John",R,2.51,4.64,SD,True,South Dakota,SD,"886,667","196,350",51.81
+"Sullivan, Dan",R,2.38,5.26,AK,True,Alaska,AK,"733,391","1,477,953",43.77
+"Blunt, Roy",R,2.18,9.17,MO,True,Missouri,MO,"6,154,913","178,040",43.7
+"Kennedy, John",R,2.04,3.13,LA,True,Louisiana,LA,"4,657,757","111,898",30.07
+"Hoeven, John",R,1.95,7.57,ND,True,North Dakota,ND,"779,094","178,711",53.14
+"Toomey, Pat",R,1.86,5.04,PA,True,Pennsylvania,PA,"13,002,700","115,883",51.08
+"Burr, Richard",R,1.83,5.98,NC,True,North Carolina,NC,"10,439,388","125,920",46.8
+"Lummis, Cynthia",R,1.73,1.92,WY,True,Wyoming,WY,"576,851","251,470",46.9
+"Capito, Shelley",R,1.67,9.56,WV,True,West Virginia,WV,"1,793,716","62,259",29.5
+"McConnell, Mitch",R,1.66,4.93,KY,True,Kentucky,KY,"4,505,836","102,269",38.6
+"Inhofe, Jim",R,1.61,2.79,OK,True,Oklahoma,OK,"3,959,353","177,660",32.8
+"Crapo, Mike",R,1.55,3.95,ID,True,Idaho,ID,"1,839,106","214,045",47.77
+"Cassidy, Bill",R,1.54,5.46,LA,True,Louisiana,LA,"4,657,757","111,898",30.07
+"Sasse, Ben",R,1.54,3.32,NE,True,Nebraska,NE,"1,961,504","198,974",52.57
+"Rubio, Marco",R,1.34,4.47,FL,True,Florida,FL,"21,538,187","138,887",45.93
+"Braun, Michael",R,1.33,1.77,IN,True,Indiana,IN,"6,785,528","92,789",43.54
+"Young, Todd",R,1.26,6.66,IN,True,Indiana,IN,"6,785,528","92,789",43.54
+"Wicker, Roger",R,1.25,7.16,MS,True,Mississippi,MS,"2,961,279","121,531",27.18
+"Hagerty, Bill",R,1.16,2.2,TN,True,Tennessee,TN,"6,910,840","106,798",41.24
+"Cornyn, John",R,1.14,4.45,TX,True,Texas,TX,"29,145,505","676,587",40.27
+"Rounds, Mike",R,1.13,6.4,SD,True,South Dakota,SD,"886,667","196,350",51.81
+"Lankford, James",R,1.1,2.19,OK,True,Oklahoma,OK,"3,959,353","177,660",32.8
+"Boozman, John",R,1.08,3.51,AR,True,Arkansas,AR,"3,011,524","134,771",32.1
+"Johnson, Ron",R,0.87,3.21,WI,True,Wisconsin,WI,"5,893,718","140,268",57.88
+"Barrasso, John",R,0.84,2.18,WY,True,Wyoming,WY,"576,851","251,470",46.9
+"Ernst, Joni",R,0.83,3.47,IA,True,Iowa,IA,"3,190,369","144,669",57.21
+"Blackburn, Marsha",R,0.8,1.18,TN,True,Tennessee,TN,"6,910,840","106,798",41.24
+"Cramer, Kevin",R,0.8,5.14,ND,True,North Dakota,ND,"779,094","178,711",53.14
+"Hawley, Josh",R,0.8,1.74,MO,True,Missouri,MO,"6,154,913","178,040",43.7
+"Risch, James",R,0.76,2.87,ID,True,Idaho,ID,"1,839,106","214,045",47.77
+"Scott, Tim",R,0.75,2.42,SC,True,South Carolina,SC,"5,118,425","77,857",41.99
+"Tuberville, Tommy",R,0.58,1.38,AL,True,Alabama,AL,"5,024,279","131,171",33.6
+"Cotton, Tom",R,0.55,1.76,AR,True,Arkansas,AR,"3,011,524","134,771",32.1
+"Scott, Rick",R,0.53,1.08,FL,True,Florida,FL,"21,538,187","138,887",45.93
+"Fischer, Deb",R,0.5,3.41,NE,True,Nebraska,NE,"1,961,504","198,974",52.57
+"Tillis, Thom",R,0.42,6.13,NC,True,North Carolina,NC,"10,439,388","125,920",46.8
+"Hyde-Smith, Cindy",R,0.0,4.48,MS,True,Mississippi,MS,"2,961,279","121,531",27.18
+"Marshall, Roger",R,0.0,2.53,KS,True,Kansas,KS,"2,937,880","211,754",48.26
